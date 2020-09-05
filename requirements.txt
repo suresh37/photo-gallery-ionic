@@ -3,4 +3,5 @@ requirements file
 1. 3 tabs
 2. gallery in middle tabs
 3. access files and show
+4. show pages in responsive layout
 
